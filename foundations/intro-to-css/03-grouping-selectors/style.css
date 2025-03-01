@@ -1,0 +1,12 @@
+.standard {
+    font-size:28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+
+}
+.standard.one {
+    background-color:black;
+    color: white;
+}
+.standard.two {
+    background-color: yellow;
+}
